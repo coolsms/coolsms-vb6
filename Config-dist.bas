@@ -6,3 +6,4 @@ Public Const ApiSecret = "INPUT YOUR API SECRET"
 Public Const Domain = "api.coolsms.co.kr"
 Public Const Protocol = "https"
 Public Const Prefix = "/"
+
